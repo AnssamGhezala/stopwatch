@@ -1,4 +1,8 @@
-This app is a stopwatch built using React.
+This app is a **stopwatch** built using **React** ⌚️✨
+
+It displays the time elapsed in miliseconds after the **start** button is pressed 🔥🔥
+
+![](StopWatch.gif)
 
 In the project directory, the following command runs the app:
 
@@ -6,6 +10,6 @@ In the project directory, the following command runs the app:
 npm start
 ```
 
-Then open http://localhost:3000/ to see the app.
 
+Then open http://localhost:3000/ to see the app.
 
